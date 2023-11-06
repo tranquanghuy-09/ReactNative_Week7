@@ -10,4 +10,4 @@ Practice week 7 of mobile programming subject
 
 # Install
 
-
+npm install @react-navigation/native @react-navigation/stack    
